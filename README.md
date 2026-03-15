@@ -378,12 +378,6 @@ terraform destroy
 
 ---
 
-# Author
-
-DevOps Learning Project
-
-Terraform + AWS + Spring Boot Deployment
-
 =====================================================================
 
 Developer Machine
@@ -437,5 +431,13 @@ http://EC2_PUBLIC_IP:8085
 ![WEB IMAGE](Images/deploySuccess.png)
 
 =====================================================================
+# Author
+
+**Ashutosh Anand** | DevOps & Cloud Engineer  
+
+Terraform + AWS + Spring Boot Deployment
+
+🔗 [GitHub Profile](https://github.com/ashu-and-anand) | 🎯 [LeetCode Profile](https://leetcode.com/u/aashu-AND-anand/)
+
 
 ## THE-END

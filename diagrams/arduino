@@ -1,0 +1,15 @@
+terraform-springboot-aws-deploy
+│
+├── diagrams
+│   └── architecture.png
+│
+├── screenshots
+│   └── app-running.png
+│
+├── main.tf
+├── variables.tf
+├── userdata.sh
+├── terraform.tfvars
+├── outputs.tf
+│
+└── README.md

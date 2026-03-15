@@ -1,0 +1,31 @@
+Developer Machine
+ (Terraform CLI)
+        │
+        │ terraform apply
+        ▼
++-----------------------------+
+|        AWS Cloud            |
+|                             |
+|  +-----------------------+  |
+|  |   EC2 Instance        |  |
+|  |   Ubuntu Server       |  |
+|  |                       |  |
+|  |  UserData Script      |  |
+|  |  ------------------   |  |
+|  |  Install Java        |  |
+|  |  Install Maven       |  |
+|  |  Install MySQL       |  |
+|  |  Clone GitHub Repo   |  |
+|  |  Build Spring App    |  |
+|  |  Run Spring Boot     |  |
+|  +-----------------------+  |
+|            │                |
+|            ▼                |
+|      Spring Boot App       |
+|         Port 8085          |
+|            │                |
++------------│----------------+
+             │
+             ▼
+      Web Browser
+http://EC2_PUBLIC_IP:8085

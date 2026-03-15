@@ -209,5 +209,5 @@ terraform destroy -auto-approve
 
 ## 👨‍💻 11. Author
 
-**Ashutosh Anand** | DevOps & Cloud Engineer  
+**ashu** | DevOps & Cloud Engineer  
 🔗 [GitHub Profile](https://github.com/ashu-and-anand) | 🎯 [LeetCode Profile](https://leetcode.com/u/aashu-AND-anand/)

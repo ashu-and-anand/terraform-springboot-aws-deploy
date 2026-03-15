@@ -433,7 +433,7 @@ http://EC2_PUBLIC_IP:8085
 =====================================================================
 # Author
 
-**Ashutosh Anand** | DevOps & Cloud Engineer  
+**ashu** | DevOps & Cloud Engineer  
 
 Terraform + AWS + Spring Boot Deployment
 

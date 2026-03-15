@@ -34,3 +34,8 @@ graph TD
     style EC2 fill:#ff9900,stroke:#232f3e,stroke-width:2px,color:white
     style App fill:#6db33f,stroke:#333,stroke-width:2px,color:white
     style DB fill:#00758f,stroke:#333,stroke-width:2px,color:white
+
+    ## 👨‍💻 11. Author
+
+**ashu** | DevOps & Cloud Engineer  
+🔗 [GitHub Profile](https://github.com/ashu-and-anand) | 🎯 [LeetCode Profile](https://leetcode.com/u/aashu-AND-anand/)
